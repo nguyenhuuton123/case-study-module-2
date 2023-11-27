@@ -1,0 +1,2 @@
+MyObject{field1='Nguyen Van A', field2=25, field3=25.5}
+MyObject{field1='Nguyen Van B', field2=25, field3=25.5}
